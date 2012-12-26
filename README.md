@@ -1,0 +1,4 @@
+WebBasedMagazine
+================
+
+CreatingWebBasedMagazine
